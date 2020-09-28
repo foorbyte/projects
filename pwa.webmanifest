@@ -1,0 +1,33 @@
+{
+    "lang": "en",
+  "dir": "ltr",      
+  "description": "The ultimate futuristic racing game from the future!",
+
+    "short_name": "pwa",
+    "name": "Web App Manifest",
+    "theme_color": "#4e8ef7",
+    "background_color": "#4e8ed7",
+    "display": "fullscreen",
+    "Scope": "/",
+    "start_url": "/index.html",
+    "orientation": "portrait",
+    "icons": [
+        {
+          "src": "images/android/android-launchericon-48-48.png",
+          "type": "image/png",
+          "sizes": "48x48"
+        },
+        {
+          "src": "images/android/android-launchericon-96-96.png",
+          "type": "image/png",
+          "sizes": "96x96"
+        },
+        {
+          "src": "images/android/android-launchericon-192-192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        }
+      ],
+      "start_url": "index.html?utm_source=homescreen"
+  }
+
